@@ -1,4 +1,3 @@
-*/
 contract Ethicoin { 
     /* Public variables of the token */
     string public name;
